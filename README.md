@@ -1,0 +1,2 @@
+# Resinaec
+Scrip termux
