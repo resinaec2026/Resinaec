@@ -6,7 +6,7 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ git clone https://github.com/Recinaec2026/Sdominio```
 
 ```bash $ cd Sdomin```
 
